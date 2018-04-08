@@ -1,0 +1,14 @@
+p{
+    background-color: #000099;
+    color: white;
+}
+
+a:hover{
+    background-color: yellow;
+}
+
+#main P{
+    background-color: white;
+    color: black;
+    border: 1px solid gray;
+}
